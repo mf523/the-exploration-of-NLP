@@ -1,5 +1,7 @@
 # Model
-## N-gram
+## N-Gram
+距离 |G_N_(s)|+|GN(t)|−2×|GN(s)∩GN(t)|
+### Smoothing
 * Add-one (Laplace) Smoothing
 * Add-k Smoothing（Lidstone’s law）
 * Backoff
