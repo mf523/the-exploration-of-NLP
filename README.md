@@ -10,4 +10,6 @@
 ## BERT
 
 # Others
-### String search: KMP, BM, BMH
+## 字符串匹配
+### 精确模式匹配: KMP, BM, BMH
+### 模糊匹配：Smith-Waterman 算法和Needleman-Wunsch 算法
