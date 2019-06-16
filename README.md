@@ -40,3 +40,5 @@ https://blog.csdn.net/baimafujinji/article/details/51281816
 [隐马尔可夫模型](https://www.cnblogs.com/pinard/p/6945257.html)
 
 [VSM向量空间模型](https://en.wikipedia.org/wiki/Vector_space_model)
+
+[齐夫定律](https://zh.wikipedia.org/wiki/%E9%BD%8A%E5%A4%AB%E5%AE%9A%E5%BE%8B)
