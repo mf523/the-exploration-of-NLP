@@ -37,5 +37,6 @@ https://blog.csdn.net/baimafujinji/article/details/51281816
 [条件随机场CRF|https://zhuanlan.zhihu.com/p/29989121]
 
 [隐马尔可夫模型](https://www.cnblogs.com/skyme/p/4651331.html)
+[隐马尔可夫模型](https://www.cnblogs.com/pinard/p/6945257.html)
 
 [VSM向量空间模型](https://en.wikipedia.org/wiki/Vector_space_model)
