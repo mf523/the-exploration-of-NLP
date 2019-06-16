@@ -26,7 +26,7 @@ https://blog.csdn.net/baimafujinji/article/details/51281816
 
 # Others
 ## 字符串匹配
-### 精确模式匹配: KMP, BM, BMH https://blog.csdn.net/qq_33515733/article/details/81163135
+### 精确模式匹配: KMP, BM, BMH https://blog.csdn.net/qq_33515733/article/details/81163135 http://www.voidcn.com/article/p-uqefeezc-bx.html
 ### 模糊匹配：Smith-Waterman 算法和Needleman-Wunsch 算法
 [极大似然法|https://blog.csdn.net/zengxiantao1994/article/details/72787849]
 
